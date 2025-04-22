@@ -2,7 +2,6 @@ package cat.itacademy.s04.t01.n02.controller;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/api")
 public class HelloWorldController {
 
 
